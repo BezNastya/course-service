@@ -1,4 +1,4 @@
-package com.example.courseservice;
+package com.project.courseservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
